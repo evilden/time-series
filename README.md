@@ -1,2 +1,2 @@
-# time-series-scripts
+# time-series
 Time series
